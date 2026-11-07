@@ -1,0 +1,8 @@
+{
+  "name": "TourWeb - Tanzania Safaris, Kilimanjaro & Zanzibar",
+  "description": "Premier Tanzania travel portal featuring Big Five wildlife safaris in Serengeti & Ngorongoro, Mount Kilimanjaro climbs, Zanzibar beach getaways, authentic Maasai cultural tours, dynamic proposal builder, and multi-language support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
